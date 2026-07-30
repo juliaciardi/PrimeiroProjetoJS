@@ -12,5 +12,8 @@ Professor: Vitor Lima
 
 Este projeto foi desenvolvido durante a primeira aula de JavaScript.
 
-Oobjetivo foi aprender:
+Objetivo foi aprender:
  -utilizar o VS code;
+ -executar o JavaScript com Node.js
+ -utilizar o Terminsl
+ -criar documento utilizado Markdown
